@@ -1,4 +1,4 @@
-# 💻 Urna em C 💻
+# 💻 Urna em Python 💻
 
 Um projeto para aguçar a criatividade em um ano de eleição o qual estamos (2022) muito embora o projeto esteja polarizado, pode-se adicionar mais candidatos e mais condições vai de sua necessidade, atualizações/upgrades muito faceis de fazer, espero que gostem.
 
